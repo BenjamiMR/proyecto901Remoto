@@ -3,6 +3,8 @@ public class Persona {
   String Correo;
   String Nombre;
   DateTime FechaNac;
-  String Direccion;
-  Int Edad;
+  String DireccionM;
+  Int EdadModificada;
+
+Sstring Colorojos;
 }

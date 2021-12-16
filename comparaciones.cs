@@ -4,4 +4,5 @@ public class Persona {
   String Nombre;
   DateTime FechaNac;
   String Direccion;
+  Int Edad;
 }

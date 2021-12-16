@@ -1,5 +1,5 @@
 public class Persona {
-  String Apellido;
+  String ApellidoModificado;
   String Correo;
   String Nombre;
   DateTime FechaNac;
